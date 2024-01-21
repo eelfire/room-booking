@@ -1,4 +1,4 @@
-# server implementation
+# Room booking system
 
 to facilitate the concepts learning of parallel and distributed systems
 
